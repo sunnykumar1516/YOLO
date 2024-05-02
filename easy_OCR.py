@@ -2,6 +2,7 @@ import easyocr
 import cv2 as cv
 import numpy as np
 
+#get me text testing
 def get_me_text():
 
     path = "./OCR_images/sample.jpg"
