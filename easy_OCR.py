@@ -17,7 +17,7 @@ def get_me_text():
     display_image(image)
 
 
-
+#draws box over image
 def draw_box(image,bbbox,text):
     print("box",bbbox)
     start_p =(bbbox[0])
