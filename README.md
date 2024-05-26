@@ -9,3 +9,7 @@ combine yolo and deepsort to track each moving vechile on highway.
 
 https://github.com/sunnykumar1516/YOLO/assets/25007015/53a53022-c43d-4cf7-ae63-e1d2256a7353
 
+
+
+https://github.com/sunnykumar1516/YOLO/assets/25007015/1aa1ff9f-a99c-465e-9167-44fc3199fcab
+
